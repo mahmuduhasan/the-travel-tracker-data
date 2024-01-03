@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-02T17:03:29.361Z",
+      "notes": "",
+      "position": {
+        "lat": "39.99097493855542",
+        "lng": "-0.027465820312500003"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Belkuchi",
+      "country": "Bangladesh",
+      "emoji": "🇧🇩",
+      "date": "2024-01-02T17:04:22.985Z",
+      "notes": "",
+      "position": {
+        "lat": "24.289727246881302",
+        "lng": "89.75280761718751"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Sirajganj",
+      "country": "Bangladesh",
+      "emoji": "🇧🇩",
+      "date": "2024-01-02T17:05:41.062Z",
+      "notes": "",
+      "position": {
+        "lat": "24.45995918531681",
+        "lng": "89.747314453125"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Onda",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-02T17:06:22.811Z",
+      "notes": "dfsdf",
+      "position": {
+        "lat": "39.96048094040325",
+        "lng": "-0.25131225585937506"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Gazipur",
+      "country": "Bangladesh",
+      "emoji": "🇧🇩",
+      "date": "2024-01-02T20:20:43.562Z",
+      "notes": "",
+      "position": {
+        "lat": "23.9060858883445",
+        "lng": "90.41748046875001"
+      },
+      "id": 5
+    },
+    {
+      "cityName": "Benicarlo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-02T20:21:15.459Z",
+      "notes": "NIce trip",
+      "position": {
+        "lat": "40.420980012407966",
+        "lng": "0.42984008789062506"
+      },
+      "id": 6
+    },
+    {
+      "cityName": "Chahar Burjak",
+      "country": "Afghanistan",
+      "emoji": "🇦🇫",
+      "date": "2024-01-02T20:21:31.622Z",
+      "notes": "",
+      "position": {
+        "lat": "29.638061723953538",
+        "lng": "62.57812500000001"
+      },
+      "id": 7
+    }
+  ]
+}
